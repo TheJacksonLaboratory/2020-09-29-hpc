@@ -10,8 +10,8 @@ humandate: "Sep 29, 2020"
 humantime: "9:00 am - 5:00 pm"    
 startdate: 2020-09-29     
 enddate: 2020-09-29        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Jason Macklin", "Aaron McDivitt", "Matt Bradley", "Sue McClatchy"] 
-helper: []
+instructor: ["Jason Macklin", "Aaron McDivitt", "Matt Bradley", "Sue McClatchy", "Neil Kindlon", "David McKenzie"] 
+helper: ["Ahmed Sadeque"]
 email: ["susan.mcclatchy@jax.org"] 
 collaborative_notes: https://docs.google.com/document/d/1qiO1EDiLkx-SNbw4EIbfNmNLNdNLG_-R9KtK5j2PyrU/edit?usp=sharing
 eventbrite: 119102979217          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
